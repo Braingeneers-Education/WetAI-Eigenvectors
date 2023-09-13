@@ -1,8 +1,6 @@
 # WetAI: Collaborative Neurobiology
 ## Assignment #2: Eigenvectors
 
-# Eigenvectors Learning Assignment
-
 Welcome to the Eigenvectors Learning Assignment! This assignment is designed to help you grasp the fundamental concept of eigenvectors, a powerful concept in linear algebra with a wide range of applications in mathematics, physics, computer science, and more.
 
 ## Getting Started
@@ -22,7 +20,7 @@ Throughout this assignment, you will:
 - Learn the theory behind eigenvectors and eigenvalues.
 - Explore practical applications of eigenvectors.
 - Engage in hands-on exercises to solidify your understanding.
-- Have the opportunity to test your knowledge through interactive quizzes.
+- Have the opportunity to test your knowledge through interactive homework assignments.
 
 ## How to Use This Repository
 
