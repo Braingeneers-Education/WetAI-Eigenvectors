@@ -26,7 +26,7 @@ Throughout this assignment, you will:
 
 ## How to Use This Repository
 
-This repository contains all the resources you need to complete the assignment successfully. You'll find detailed instructions, code examples, and quizzes. To begin, click the "Start Assignment" button above, and you'll be directed to the assignment platform.
+This repository contains all the resources you need to complete the assignment successfully. You'll find detailed instructions, code examples, and quizzes. To begin, click the "Open in GitHub Codespaces" button above, and you'll be directed to the assignment platform.
 
 We wish you an enlightening journey into the world of eigenvectors!
 
