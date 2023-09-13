@@ -1,4 +1,4 @@
-# WetAI
+# WetAI: Collaborative Neurobiology
 ## Assignment #2: Eigenvectors
 
 # Eigenvectors Learning Assignment
