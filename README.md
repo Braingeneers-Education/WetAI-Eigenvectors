@@ -7,7 +7,7 @@ Welcome to the Eigenvectors Learning Assignment! This assignment is designed to 
 
 ## Getting Started
 
-To begin or resume your assignment, simply click the "Start Assignment" button below. Whether you're a student eager to explore the world of eigenvectors or an enthusiast looking to deepen your understanding, this assignment will guide you through the essential concepts step by step.
+To begin or resume your assignment, simply click the "Open in GitHub Codespaces" button below. Whether you're a student eager to explore the world of eigenvectors or an enthusiast looking to deepen your understanding, this assignment will guide you through the essential concepts step by step.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Braingeneers-Education/WetAI-Eigenvectors?quickstart=1)
 
