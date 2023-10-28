@@ -10,7 +10,7 @@ authors:
 - family-names: "Don"
   given-names: "Setiawan"
   orcid: "https://orcid.org/0000-0002-1624-2667"
-title: "WetAI Perceptron"
+title: "WetAI Eigenvectors"
 doi: 10.5281/zenodo.10048762
 version: v0.0.2
 date-released: 2023-10-27
